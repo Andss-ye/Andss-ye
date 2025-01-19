@@ -1,35 +1,43 @@
-# 👋 Hola, soy Andrew | [@Andss-ye](https://github.com/Andss-ye)
+# 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye)
 
-Desarrollador Full Stack apasionado por la tecnología y siempre en busca de nuevos retos. 🚀
-
----
-
-## 🛠️ Tech Stack:
-- **Frontend**: React.js, TypeScript, TailwindCSS  
-- **Backend**: Node.js, Express, Deno  
-- **Bases de Datos**: MySQL, PostgreSQL  
-- **Otros**: Git, Docker, APIs REST  
+![Andss-ye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical)
 
 ---
 
-## 🌱 Aprendiendo:
-- APIs con Deno  
-- Integración de criptomonedas (USDT, Bitcoin)  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| **Frontend**                | **Backend**           | **Bases de Datos**      |
+|-----------------------------|-----------------------|-------------------------|
+| React.js, TypeScript, HTML  | Node.js, Express, Deno | MySQL, PostgreSQL, SQLite |
+| CSS3, TailwindCSS           | APIs REST, Websockets |                         |
+
+| **Otros**                   | **Herramientas**      | **Sistema Operativo**   |
+|-----------------------------|-----------------------|-------------------------|
+| Git, Docker                 | Visual Studio Code    | Linux (EndeavourOS)     |
+
+</div>
 
 ---
 
-## 💼 Encuéntrame en:
+## 🌱 Actualmente aprendiendo:
+- Desarrollo de APIs con Deno  
+- Integración de criptomonedas (Bitcoin, USDT)  
+- Arquitectura de software avanzada  
+
+---
+
+## 💼 Conecta conmigo:
 - **LinkedIn**: [linkedin.com/in/andrew-profile](https://linkedin.com/in/andrew-profile)  
 - **Discord**: `AndrewDev#1234`  
 
 ---
 
-## 🌟 Proyectos Destacados:
-- [**Sistema de Inventarios**](https://github.com/Andss-ye/inventory-management)  
-- [**To-Do App**](https://github.com/Andss-ye/todo-app)  
+## 💬 Un poco más sobre mí:
+- 💻 Prefiero la terminal y personalizar entornos en Linux.  
+- 🚀 Autodidacta y apasionado por aprender cosas nuevas.  
+- 🤝 Siempre abierto a colaborar en proyectos open-source.  
 
----
-
-![Andss-ye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical)  
-
-¡Gracias por pasarte! ✨
+¡Gracias por pasarte por mi perfil! 🌟
