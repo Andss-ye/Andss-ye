@@ -46,8 +46,8 @@
 
 | **Otros**                   | **Herramientas**      | **Sistema Operativo**   |
 |-----------------------------|-----------------------|-------------------------|
-| Git, GitHub                 | Visual Studio Code    | Linux (EndeavourOS)     |
-| Serverless(firebase, etc...)| Cursor                | Windows 11              |
+| Git, GitHub,  Serverless    | Visual Studio Code    | Linux (EndeavourOS)     |
+| (firebase, etc...)          | Cursor                | Windows 11              |
 
 </div>
 
