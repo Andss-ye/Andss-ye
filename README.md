@@ -39,15 +39,25 @@
 
 <div align="center">
 
+<div align="center">
+
 | **Frontend**                | **Backend**           | **Bases de Datos**      |
 |-----------------------------|-----------------------|-------------------------|
 | Reactjs, TypeScript, HTML  | Nodejs, Express, Deno | MySQL, PostgreSQL,      |
 | CSS3, TailwindCSS, Astro    | APIs REST, Websockets | MongoDB                 |
 
+</div>
+
+<br>
+
+<div align="center">
+
 | **Otros**                   | **Herramientas**      | **Sistema Operativo**   |
 |-----------------------------|-----------------------|-------------------------|
 | Git, GitHub,  Serverless    | Visual Studio Code    | Linux (EndeavourOS)     |
 | (firebase, etc...)          | Cursor                | Windows 11              |
+
+</div>
 
 </div>
 
