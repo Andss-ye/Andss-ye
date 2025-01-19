@@ -41,7 +41,7 @@
 
 | **Frontend**                | **Backend**           | **Bases de Datos**      |
 |-----------------------------|-----------------------|-------------------------|
-| React.js, TypeScript, HTML  | Node.js, Express, Deno| MySQL, PostgreSQL,      |
+| Reactjs, TypeScript, HTML  | Nodejs, Express, Deno | MySQL, PostgreSQL,      |
 | CSS3, TailwindCSS, Astro    | APIs REST, Websockets | MongoDB                 |
 
 | **Otros**                   | **Herramientas**      | **Sistema Operativo**   |
