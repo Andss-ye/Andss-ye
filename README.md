@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical" alt="Top Langs" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical" alt="Top Langs" width="40%" height="165">
 </div>
 
 ###
