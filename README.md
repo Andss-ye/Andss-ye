@@ -1,47 +1,60 @@
-<h2 align="left">Hi 👋! My name is Andres and I'm a web developer/engineering student.</h2>
+# 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye)
 
-###
+¡Bienvenido a mi espacio en GitHub! Soy un desarrollador Full Stack apasionado por la tecnología, el código limpio y la innovación. Siempre estoy buscando nuevas formas de aprender y construir soluciones creativas que marquen la diferencia.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andss-ye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/3f/3b/27/3f3b27369d49e67c3e594125f7b0468c.jpg"  />
+### Lenguajes y Tecnologías:
+- **Frontend**: React.js, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS
+- **Backend**: Node.js, Express, Deno
+- **Bases de Datos**: MySQL, PostgreSQL, SQLite
+- **Otros**: Git, Docker, APIs REST, Websockets
 
-###
+### Herramientas y Frameworks:
+- **IDE**: Visual Studio Code
+- **Diseño y prototipado**: Figma
+- **Sistema Operativo**: Linux (EndeavourOS)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
-</div>
+---
 
-###
+## 🌱 Actualmente aprendiendo:
+- Desarrollo de APIs con Deno
+- Integración de criptomonedas (Bitcoin, USDT)
+- Arquitectura de software avanzada
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/andrés-rodriguez-499363211" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=andyx12&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+---
 
-### 
+## 💼 Conecta conmigo:
+- **LinkedIn**: [linkedin.com/in/andrew-profile](https://linkedin.com/in/andrew-profile)
+- **Discord**: `AndrewDev#1234`
+
+---
+
+## 🎯 Mis intereses:
+- Crear proyectos significativos que impacten a las personas
+- Automatización de procesos
+- Personalización de entornos de desarrollo
+
+---
+
+## 🌟 Algunos proyectos destacados:
+- **[Sistema de Gestión de Inventarios](https://github.com/Andss-ye/inventory-management):** Un sistema basado en Python para la gestión de productos y reportes.
+- **[To-Do App](https://github.com/Andss-ye/todo-app):** Aplicación simple desarrollada con React y almacenamiento local.
+- **[Hyprland Config](https://github.com/Andss-ye/hyprland-config):** Personalización avanzada de mi entorno Linux usando Hyprland.
+
+---
+
+## 💻 Mi GitHub Stats:
+![Andss-ye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical)
+
+---
+
+## 💬 Un poco más sobre mí:
+- Prefiero la terminal y la personalización en Linux.
+- Soy autodidacta y apasionado por aprender cosas nuevas.
+- Siempre estoy dispuesto a colaborar en proyectos open-source.
+
+Gracias por visitar mi perfil. ¡No dudes en contactarme o explorar mis repositorios!
