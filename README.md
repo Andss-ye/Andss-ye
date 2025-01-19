@@ -1,15 +1,15 @@
 # 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye)
 
 <div align="center">
-  ![Andss-ye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical" alt="Top Langs" width="48%">
 </div>
 
----
+###
 
 <img align="right" height="150" src="https://i.pinimg.com/564x/3f/3b/27/3f3b27369d49e67c3e594125f7b0468c.jpg"  />
 
----
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
