@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye) | Software Developer
+# 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye) | Software Developer 🧑🏻‍💻
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" height="180">
@@ -7,7 +7,7 @@
 
 ---
 
-#### ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador Full Stack apasionado por la tecnología, el código limpio y la innovación. Siempre estoy buscando nuevas formas de aprender y construir soluciones creativas que marquen la diferencia.
+#### 🧑🏻‍💻 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador Full Stack apasionado por la tecnología, el código limpio y la innovación. Siempre estoy buscando nuevas formas de aprender y construir soluciones creativas que marquen la diferencia. 🧑🏻‍💻
 
 ---
 
