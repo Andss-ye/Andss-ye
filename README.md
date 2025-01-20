@@ -35,7 +35,8 @@
 
 ###
 
-###
+---
+<br clear="both">
 
 ###
 ## 🛠️ Tech Stack
