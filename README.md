@@ -35,10 +35,10 @@
 
 ###
 
----
 <br clear="both">
 
 ###
+---
 ## 🛠️ Tech Stack
 
 <div align="center">
