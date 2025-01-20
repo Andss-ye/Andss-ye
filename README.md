@@ -5,7 +5,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical" alt="Top Langs" width="40%" height="165">
 </div>
 
-¡Bienvenido a mi espacio en GitHub! Soy un desarrollador Full Stack apasionado por la tecnología, el código limpio y la innovación. Siempre estoy buscando nuevas formas de aprender y construir soluciones creativas que marquen la diferencia.
+---
+
+##### ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador Full Stack apasionado por la tecnología, el código limpio y la innovación. Siempre estoy buscando nuevas formas de aprender y construir soluciones creativas que marquen la diferencia.
+
+---
 
 ###
 
