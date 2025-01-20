@@ -7,7 +7,7 @@
 
 ---
 
-##### ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador Full Stack apasionado por la tecnología, el código limpio y la innovación. Siempre estoy buscando nuevas formas de aprender y construir soluciones creativas que marquen la diferencia.
+#### ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador Full Stack apasionado por la tecnología, el código limpio y la innovación. Siempre estoy buscando nuevas formas de aprender y construir soluciones creativas que marquen la diferencia.
 
 ---
 
