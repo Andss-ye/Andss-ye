@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye) | Software Developer 🧑🏻‍💻
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical" alt="Top Langs" width="40%" height="165">
 </div>
 
 ---
@@ -16,75 +16,100 @@
 
 ---
 
-### 🧠 Stack Tecnológico
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/736x/76/d6/27/76d6278b02cbad2cd81a0469b1495af7.jpg"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="denojs logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+###
+---
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| **Frontend**                     | **Backend**               | **Bases de Datos**     |
-|----------------------------------|----------------------------|-------------------------|
-| React, TypeScript, TailwindCSS  | Node.js, Express, Deno     | MySQL, PostgreSQL, MongoDB |
-| HTML5, CSS3, Astro               | REST APIs, Websockets      | Firebase                |
+<div align="center">
 
-| **Herramientas & Otros**        | **Sistema Operativo**     |
-|----------------------------------|----------------------------|
-| Git, GitHub, Serverless, Bash   | Linux (EndeavourOS), Windows 11 |
-| VS Code, Cursor, Zsh            |                            |
+| **Frontend**                | **Backend**           | **Bases de Datos**      |
+|-----------------------------|-----------------------|-------------------------|
+| Reactjs, TypeScript, HTML  | Nodejs, Express, Deno | MySQL, PostgreSQL,      |
+| CSS3, TailwindCSS, Astro    | APIs REST, Websockets | MongoDB                 |
+
+</div>
+
+<br>
+
+<div align="center">
+
+| **Otros**                   | **Herramientas**      | **Sistema Operativo**   |
+|-----------------------------|-----------------------|-------------------------|
+| Git, GitHub,  Serverless    | Visual Studio Code    | Linux (EndeavourOS)     |
+| (firebase, etc...)          | Cursor                | Windows 11              |
+
+</div>
 
 </div>
 
 ---
 
-### 🛠 Tecnologías que uso
-
-<img align="left" height="200" src="https://i.pinimg.com/736x/76/d6/27/76d6278b02cbad2cd81a0469b1495af7.jpg" />
-
-<div align="left">
-
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" alt="Deno" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /></code>
-
-</div>
-
-<br clear="both" />
+## 🌱 Actualmente aprendiendo:
+- Desarrollo de APIs con Deno y expressJS  
+- Implementaciones de AI mediante API's
+- Arquitectura de software
+- Usando herramientas de AI para mayor productividad
 
 ---
 
-### 🚀 Actualmente aprendiendo
-- Desarrollo de APIs con **Deno** y **Express**
-- Integración de APIs de **Inteligencia Artificial**
-- Principios de **Arquitectura de Software**
-- Uso de herramientas AI para **aumentar la productividad**
+## 💼 Conecta conmigo:
+- **Portfolio**: [Portfolio](https://andrew-portfolio-uwu.netlify.app/)
+- **LinkedIn**: [linkedin.com/in/andrew](https://www.linkedin.com/in/andr%C3%A9s-rodriguez-499363211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhUX2M0lmRWK9QT3AxaCKDA%3D%3D) 
+- **Discord**: `andyx12`  
 
 ---
 
-### 📫 Conecta conmigo
+## 💬 Un poco más sobre mí:
+- 🚀 Autodidacta y apasionado por aprender cosas nuevas.  
+- 🤝 Siempre abierto a colaborar en proyectos open-source.
+- 💻 Prefiero la terminal y personalizar entornos en Linux y windows.  
 
-- 🌐 **Portfolio**: [andrew-portfolio-uwu.netlify.app](https://andrew-portfolio-uwu.netlify.app/)
-- 💼 **LinkedIn**: [linkedin.com/in/andrew](https://www.linkedin.com/in/andrés-rodriguez-499363211)
-- 💬 **Discord**: `andyx12`
-
----
-
-### 💬 Extras
-
-- 🧠 Autodidacta, curioso y en constante evolución.  
-- 🤝 Abierto a colaborar en proyectos open-source.  
-- 💻 Disfruto personalizar y automatizar mis entornos de desarrollo.  
-
----
-
-¡Gracias por visitar mi perfil! ⭐
+¡Gracias por pasarte por mi perfil! 🌟
