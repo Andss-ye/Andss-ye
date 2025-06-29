@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye) | Software Developer 🧑🏻‍💻
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andss-ye&layout=compact&theme=radical" alt="Top Langs" width="40%" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andss-ye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
 ---
@@ -64,30 +64,10 @@
 
 ###
 ---
-## 🛠️ Tech Stack
+## 🪄 Stats 
 
 <div align="center">
-
-<div align="center">
-
-| **Frontend**                | **Backend**           | **Bases de Datos**      |
-|-----------------------------|-----------------------|-------------------------|
-| Reactjs, TypeScript, HTML  | Nodejs, Express, Deno | MySQL, PostgreSQL,      |
-| CSS3, TailwindCSS, Astro    | APIs REST, Websockets | MongoDB                 |
-
-</div>
-
-<br>
-
-<div align="center">
-
-| **Otros**                   | **Herramientas**      | **Sistema Operativo**   |
-|-----------------------------|-----------------------|-------------------------|
-| Git, GitHub,  Serverless    | Visual Studio Code    | Linux (EndeavourOS)     |
-| (firebase, etc...)          | Cursor                | Windows 11              |
-
-</div>
-
+  <img src="https://streak-stats.demolab.com?user=Andss-ye&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ---
