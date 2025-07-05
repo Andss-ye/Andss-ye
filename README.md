@@ -18,14 +18,20 @@
 
 ###
 
-<!-- <img align="right" height="200" src="https://i.pinimg.com/736x/76/d6/27/76d6278b02cbad2cd81a0469b1495af7.jpg"  /> -->
+<!-- <img align="right" height="200" src="https://i.pinimg.com/736x/76/d6/27/76d6278b02cbad2cd81a0469b1495af7.jpg"  /> 
 <div align="right">
-  <img height="300" src="https://i.pinimg.com/originals/6f/9c/3b/6f9c3b274ca5a8e3fbbb2b4ef131c686.gif"  />
-</div>
+<img height="300" src="https://i.pinimg.com/originals/6f/9c/3b/6f9c3b274ca5a8e3fbbb2b4ef131c686.gif"  />
+</div> -->
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/6f/9c/3b/6f9c3b274ca5a8e3fbbb2b4ef131c686.gif" />
 
 ###
 
 <div align="center">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -56,7 +62,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img width="12" />
+  <!-- aca va el npm -->
+
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
