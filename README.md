@@ -109,4 +109,4 @@
 - 🤝 Siempre abierto a colaborar en proyectos open-source.
 - 💻 Prefiero la terminal y personalizar entornos en Linux y windows.  
 
-¡Gracias por pasarte por mi perfil! 🐭🚀
+¡Gracias por pasarte por mi perfil! 🐭🚀🚀
