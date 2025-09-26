@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Andrew | [@Andss-ye](https://github.com/Andss-ye) | Software Developer 🧑🏻‍💻
+# 👋 Hi! I'm Andrew | [@Andss-ye](https://github.com/Andss-ye) | Software Developer 🧑🏻‍💻
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
@@ -7,12 +7,12 @@
 
 ---
 
-## 💡 Sobre mí
+## 💡 About Me
 
-🎯 Soy un desarrollador Full Stack apasionado por la tecnología y el aprendizaje constante.  
-✨ Me enfoco en escribir **código limpio**, aplicar **buenas prácticas** y diseñar **arquitecturas claras y escalables**.  
-📦 Disfruto trabajar en soluciones bien estructuradas, aplicando principios como **SOLID**, separación de responsabilidades y patrones de diseño.  
-📚 Siempre estoy explorando nuevas herramientas y formas de construir productos que aporten valor y sean fáciles de mantener.
+🎯 I'm a Full Stack Developer passionate about technology and continuous learning.
+✨ I focus on writing **clean code**, applying **best practices**, and designing clear, **scalable architectures**.
+📦 I enjoy building well-structured solutions, applying principles like **SOLID**, separation of concerns, and design patterns.
+📚 Always exploring new tools and approaches to build valuable, maintainable products.
 
 ---
 
@@ -89,24 +89,24 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo:
-- Desarrollo de APIs con Deno y expressJS  
-- Implementaciones de AI mediante API's
-- Arquitectura de software
-- Usando herramientas de AI para mayor productividad
+## 🌱 Currently Learning:
+- API development with **Deno** and **Go**
+- AI integrations via APIs
+- Software architecture
+- Leveraging AI tools for productivity
 
 ---
 
-## 💼 Conecta conmigo:
+## 💼 Connect With Me:
 - **Portfolio**: [Portfolio](https://andrew-portfolio-uwu.netlify.app/)
 - **LinkedIn**: [linkedin.com/in/andrew](https://www.linkedin.com/in/andr%C3%A9s-rodriguez-499363211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhUX2M0lmRWK9QT3AxaCKDA%3D%3D) 
 - **Discord**: `andyx12`  
 
 ---
 
-## 💬 Un poco más sobre mí:
-- 🚀 Autodidacta y apasionado por aprender cosas nuevas.  
-- 🤝 Siempre abierto a colaborar en proyectos open-source.
-- 💻 Prefiero la terminal y personalizar entornos en Linux y windows.  
+## 💬 A Little More About Me
+- 🚀 Self-taught and passionate about continuous learning.
+- 🤝 Always open to collaborating on open-source projects.
+- 💻 I love working from the terminal and customizing my Linux & Windows environments.
 
-¡Gracias por pasarte por mi perfil! 🐭
+✨ Thanks for stopping by my profile! 🐭
