@@ -9,9 +9,9 @@
 
 ## 💡 About Me
 
-🎯 I'm a Full Stack Developer passionate about technology and continuous learning.
-✨ I focus on writing **clean code**, applying **best practices**, and designing clear, **scalable architectures**.
-📦 I enjoy building well-structured solutions, applying principles like **SOLID**, separation of concerns, and design patterns.
+🎯 I'm a Full Stack Developer passionate about technology and continuous learning.   
+✨ I focus on writing **clean code**, applying **best practices**, and designing clear, **scalable architectures**.   
+📦 I enjoy building well-structured solutions, applying principles like **SOLID**, separation of concerns, and design patterns.   
 📚 Always exploring new tools and approaches to build valuable, maintainable products.
 
 ---
