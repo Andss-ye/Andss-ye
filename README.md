@@ -46,6 +46,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bun" height="50" alt="bun logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=deno" height="50" alt="denojs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
@@ -67,14 +71,11 @@
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="12" />
   <!-- aca va el npm -->
-
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=deno" height="50" alt="denojs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
 </div>
