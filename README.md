@@ -103,7 +103,7 @@
 
 ## 💼 Connect With Me:
 - **Portfolio**: [Portfolio](https://andrew-portfolio-uwu.netlify.app/)
-- **LinkedIn**: [linkedin.com/in/andrew](https://www.linkedin.com/in/andr%C3%A9s-rodriguez-499363211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhUX2M0lmRWK9QT3AxaCKDA%3D%3D) 
+- **LinkedIn**: [linkedin.com/in/andss-ye](https://www.linkedin.com/in/andss-ye) 
 - **Discord**: `andyx12`  
 
 ---
