@@ -114,4 +114,4 @@
 - 🤝 Always open to collaborating on open-source projects.
 - 💻 I love working from the terminal and customizing my Linux & Windows environments.
 
-✨ Thanks for stopping by my profile! 🐭
+✨ Thanks for stopping by my profile! 
