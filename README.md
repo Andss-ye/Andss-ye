@@ -1,117 +1,87 @@
-# Hi! I'm Andrew | [@Andss-ye](https://github.com/Andss-ye) | Software Developer 🧑🏻‍💻
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andss-ye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="165" alt="languages graph"  />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Andres+%F0%9F%91%8B;Backend+Engineer;AI+Agent+Builder" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=600&height=40&lines=TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+AI+Agents+%C2%B7+Tool-use+pattern" alt="Stack SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-andss--ye-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andss-ye)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://andrew-portfolio-uwu.netlify.app/)
+[![Email](https://img.shields.io/badge/-andrex120tv@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andrex120tv@gmail.com)
+
+
 </div>
 
 ---
 
-## 💡 About Me
+Backend engineer with 3+ years in the JS/TS ecosystem, currently at [Cado AI](https://www.cado.ai/) building AI agent integrations with the tool-use pattern — owning features from architecture to production. Previously at Consultancy Global automating business workflows with Zapier, Make.com, n8n, and Python.
 
-🎯 I'm a Full Stack Developer passionate about technology and continuous learning.   
-✨ I focus on writing **clean code**, applying **best practices**, and designing clear, **scalable architectures**.   
-📦 I enjoy building well-structured solutions, applying principles like **SOLID**, separation of concerns, and design patterns.   
-📚 Always exploring new tools and approaches to build valuable, maintainable products.
+Interested in: AI agent architecture, backend systems, and shipping things that work in production.
 
 ---
 
-###
-
-<!-- <img align="right" height="200" src="https://i.pinimg.com/736x/76/d6/27/76d6278b02cbad2cd81a0469b1495af7.jpg"  /> 
-<div align="right">
-<img height="300" src="https://i.pinimg.com/originals/6f/9c/3b/6f9c3b274ca5a8e3fbbb2b4ef131c686.gif"  />
-</div> -->
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/6f/9c/3b/6f9c3b274ca5a8e3fbbb2b4ef131c686.gif" />
-
-###
-
 <div align="center">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bun" height="50" alt="bun logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=deno" height="50" alt="denojs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="12" />
-  <!-- aca va el npm -->
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
+
+<br/>
+
+<img src="https://i.pinimg.com/originals/be/c3/34/bec33481c435256921f05b78c19158f3.gif" width="180" alt="coding gif" />
+
 </div>
 
-###
+## 🏆 Hackathons
 
-<br clear="both">
+> 3 hackathons. 3 functional MVPs. One recurring team.
 
-###
+| # | Event | What we built | Stack | Demo |
+|---|-------|---------------|-------|------|
+| 1 | **Yuno NextGen** — 12 teams, invite-only | **Yuno Sentinel** — payment observability platform. Multi-layer anomaly detection (rules + Z-Score + trends), AI-powered failure explanations, real-time dashboard, automated KAM alerts | FastAPI · PostgreSQL · Redis · Gemini · Docker · 5 microservices | 36h sprint |
+| 2 | **Zero to Agent** by v0/Vercel | **PR Analyzer Bot** — GitHub PR review agent powered by AI | GitHub API · v0 · AI | [Live →](https://sniff-plum.vercel.app/) |
+| 3 | **GTM Hackathon LATAM** — Uni Andes | **Adkio** — autonomous Meta Ads agent. Generates and publishes campaigns end-to-end, no dashboard config | Meta Business API · AI agents | [Waitlist →](https://tally.so/r/EkvGqo) |
+
 ---
-## 🪄 Stats 
+
+## ⚡ Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Andss-ye&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,go,py,rust,dart" height="45" />
+
+**Backend & Runtimes**
+
+<img src="https://skillicons.dev/icons?i=nodejs,bun,deno,express,fastapi" height="45" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro" height="45" />
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,firebase" height="45" />
+
+**Infra & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" height="45" />
+
 </div>
 
 ---
 
-## 🌱 Currently Learning:
-- API development with **Deno** and **Go**
-- AI integrations via APIs
-- Software architecture
-- Leveraging AI tools for productivity
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andss-ye&layout=compact&langs_count=6&theme=radical&hide_border=true" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Andss-ye&theme=radical&hide_border=true&mode=daily" height="180" />
+</div>
 
 ---
 
-## 💼 Connect With Me:
-- **Portfolio**: [Portfolio](https://andrew-portfolio-uwu.netlify.app/)
-- **LinkedIn**: [linkedin.com/in/andss-ye](https://www.linkedin.com/in/andss-ye) 
-- **Discord**: `andyx12`  
-
----
-
-## 💬 A Little More About Me
-- 🚀 Self-taught and passionate about continuous learning.
-- 🤝 Always open to collaborating on open-source projects.
-- 💻 I love working from the terminal and customizing my Linux & Windows environments.
-
-✨ Thanks for stopping by my profile!
+<div align="center">
+  <sub>Open to backend and AI agent roles · Bogotá, Colombia</sub>
+</div>
