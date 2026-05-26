@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Andres+%F0%9F%91%8B;Backend+Engineer;AI+Agent+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Andrew+%F0%9F%91%8B;Backend+Engineer;AI+Agent+Builder" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=600&height=40&lines=TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+AI+Agents+%C2%B7+Tool-use+pattern" alt="Stack SVG" />
 
