@@ -37,7 +37,8 @@ Interested in: AI agent architecture, backend systems, and shipping things that 
 |---|-------|---------------|-------|------|
 | 1 | **Yuno NextGen** — 12 teams, invite-only | **Yuno Sentinel** — payment observability platform. Multi-layer anomaly detection (rules + Z-Score + trends), AI-powered failure explanations, real-time dashboard, automated KAM alerts | FastAPI · PostgreSQL · Redis · Gemini · Docker · 5 microservices | 36h sprint |
 | 2 | **Zero to Agent** by v0/Vercel | **PR Analyzer Bot** — GitHub PR review agent powered by AI | GitHub API · v0 · AI | [Live →](https://sniff-plum.vercel.app/) |
-| 3 | **GTM Hackathon LATAM** — Uni Andes | **Adkio** — autonomous Meta Ads agent. Generates and publishes campaigns end-to-end, no dashboard config | Meta Business API · AI agents | [Waitlist →](https://tally.so/r/EkvGqo) |
+| 3 | **GTM Hackathon LATAM** — Uni Andes | **Adkio** — autonomous Meta Ads agent. Generates and publishes campaigns end-to-end, no dashboard config | Meta Business API · AI agents | [Live →](https://web-production-9f9d1.up.railway.app) |
+| 4 | **Colombia Tech Week Hackathon** — Track 01: Tech for Transparency | **Lumen** — citizen oversight of disaster-recovery spending. Scans no-bid emergency contracts as they're published, cross-checks 8 deterministic red flags against official registries, AI-reads the urgency justifications the law requires, and alerts the local watchdog | React · TypeScript · Tailwind · FastAPI · Supabase · Claude · MCP server | [Live →](https://lumen-a1y.pages.dev) |
 
 ---
 
