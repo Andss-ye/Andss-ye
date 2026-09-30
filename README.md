@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Andrew+%F0%9F%91%8B;Backend+Engineer;AI+Agent+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Andrew+%F0%9F%91%8B;AI+%26+Full+Stack+Software+Engineer;AI+Agent+Builder;Shipping+AI+products+from+infra+to+UI" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=600&height=40&lines=TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+AI+Agents+%C2%B7+Tool-use+pattern" alt="Stack SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=600&height=40&lines=LLMs+%C2%B7+AI+Agents+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Go+%C2%B7+Rust" alt="Stack SVG" />
 
 <br/>
 
@@ -15,9 +15,9 @@
 
 ---
 
-Backend engineer with 3+ years in the JS/TS ecosystem, currently at [Cado AI](https://www.cado.ai/) building AI agent integrations with the tool-use pattern — owning features from architecture to production. Previously at Consultancy Global automating business workflows with Zapier, Make.com, n8n, and Python.
+Software & AI Engineer with 3+ years building products end to end, from architecture to production, across backend, frontend, infra and product design. Currently at [Cado AI](https://www.cado.ai/) shipping LLM products and AI agents that work in real environments, not just demos.
 
-Interested in: AI agent architecture, backend systems, and shipping things that work in production.
+Focused on: applied AI, LLM systems, and full stack products that hold up in production.
 
 ---
 
@@ -31,14 +31,14 @@ Interested in: AI agent architecture, backend systems, and shipping things that 
 
 ## 🏆 Hackathons
 
-> 3 hackathons. 3 functional MVPs. One recurring team.
+> 4 hackathons. 4 shipped MVPs. 2 podiums.
 
-| # | Event | What we built | Stack | Demo |
+| Result | Event | What we built | Stack | Demo |
 |---|-------|---------------|-------|------|
-| 1 | **Yuno NextGen** — 12 teams, invite-only | **Yuno Sentinel** — payment observability platform. Multi-layer anomaly detection (rules + Z-Score + trends), AI-powered failure explanations, real-time dashboard, automated KAM alerts | FastAPI · PostgreSQL · Redis · Gemini · Docker · 5 microservices | 36h sprint |
-| 2 | **Zero to Agent** by v0/Vercel | **PR Analyzer Bot** — GitHub PR review agent powered by AI | GitHub API · v0 · AI | [Live →](https://sniff-plum.vercel.app/) |
-| 3 | **GTM Hackathon LATAM** — Uni Andes | **Adkio** — autonomous Meta Ads agent. Generates and publishes campaigns end-to-end, no dashboard config | Meta Business API · AI agents | [Live →](https://web-production-9f9d1.up.railway.app) |
-| 4 | **Colombia Tech Week Hackathon** — Track 01: Tech for Transparency | **Lumen** — citizen oversight of disaster-recovery spending. Scans no-bid emergency contracts as they're published, cross-checks 8 deterministic red flags against official registries, AI-reads the urgency justifications the law requires, and alerts the local watchdog | React · TypeScript · Tailwind · FastAPI · Supabase · Claude · MCP server | [Live →](https://lumen-a1y.pages.dev) |
+| 🥈 **Top 2** | **Platanus Hack Colombia** — AI Security track, 100 of 300 selected | **Roxy** — security gateway between AI agents and MCP servers | MCP · AI Security · Golang · Typescript · Rust · FastAPI · AWS | [Repo →](https://github.com/platanus-hack/platanus-hack-26-co-team-3) |
+| 🥈 **#2** | **GTM Hackathon LATAM** — Uni Andes | **Adkio** — autonomous Meta Ads agent. Generates and publishes campaigns end-to-end, no dashboard config | Meta Business API · AI agents · Typescript · FastAPI · Claude SDK · Claude API | [Live →](https://web-production-9f9d1.up.railway.app) |
+| MVP | **Colombia Tech Week Hackathon** — Track 01: Tech for Transparency | **Lumen** — citizen oversight of disaster-recovery spending. Scans no-bid emergency contracts as they're published, cross-checks 8 deterministic red flags against official registries, AI-reads the urgency justifications the law requires, and alerts the local watchdog | React · TypeScript · Tailwind · FastAPI · Supabase · Claude · MCP server | [Live →](https://lumen-a1y.pages.dev) |
+| MVP | **Yuno NextGen** — 12 teams, invite-only | **Yuno Sentinel** — payment observability platform. Multi-layer anomaly detection (rules + Z-Score + trends), AI-powered failure explanations, real-time dashboard, automated KAM alerts | FastAPI · PostgreSQL · Redis · Gemini · Docker · 5 microservices | 36h sprint |
 
 ---
 
@@ -82,7 +82,4 @@ Interested in: AI agent architecture, backend systems, and shipping things that 
 </div>
 
 ---
-
-<div align="center">
-  <sub>Open to backend and AI agent roles · Bogotá, Colombia</sub>
-</div>
+<div align="center"> <sub>Open to AI & Full Stack Software Engineering roles · Bogotá, Colombia</sub> </div>
