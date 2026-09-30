@@ -73,8 +73,8 @@ Focused on: applied AI, LLM systems, and full stack products that hold up in pro
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andss-ye&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andss-ye&layout=compact&langs_count=6&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Andss-ye&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Andss-ye&layout=compact&langs_count=6&theme=radical&hide_border=true" height="160" />
 </div>
 
 <div align="center">
