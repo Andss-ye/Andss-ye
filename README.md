@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-andss--ye-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andss-ye)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://andrew-portfolio-uwu.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)]([https://andrew-portfolio-uwu.netlify.app/](https://andssye.vercel.app/))
 [![Email](https://img.shields.io/badge/-andrex120tv@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andrex120tv@gmail.com)
 
 
