@@ -82,4 +82,4 @@ Focused on: applied AI, LLM systems, and full stack products that hold up in pro
 </div>
 
 ---
-<div align="center"> <sub>Open to AI & Full Stack Software Engineering roles · Bogotá, Colombia</sub> </div>
+<div align="center"> <sub>Open to AI & Software Engineering roles · Bogotá, Colombia</sub> </div>
